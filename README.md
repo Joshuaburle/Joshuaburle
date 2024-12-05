@@ -1,5 +1,5 @@
 <h1 align="center">Hi , nice to meet you I'm Joshua Burle</h1>
-<h3 align="center">A determine web developer from France</h3>
+<h3 align="center">A determined web developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaburle&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaburle" /> </p>
 
