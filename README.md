@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything you want/need !**
 
-- 📫 How to reach me **joshua.burle@laplateforme.io**
+- 📫 How to reach me **joshua.burle@gmail.com**
 
 - ⚡ Fun fact **I'm colorblind.**
 
