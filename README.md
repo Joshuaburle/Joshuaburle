@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaburle&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaburle" /> </p>
 
-- 🌱 I’m currently learning **Python, git and unity.**
+- 🌱 I’m currently learning **low progammation.**
 
 - 💻​ I’m looking to collaborate on **some new project**
 
